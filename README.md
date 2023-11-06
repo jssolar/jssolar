@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jssolar" alt="jssolar" /></a> </p>
 
-- 📫 How to reach me **jlsolarsolar@gmail.com**
+- <p align="center">📫 How to reach me **jlsolarsolar@gmail.com**</p>
 
 
 
