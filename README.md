@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Juan Solar</h1>
 <h3 align="center" color="red">Jr developer from Chile</h3>
+<p>Desarrollador Full-Stack Jr. con habilidades en desarrollo web,
+proactivo, perseverante y con atención al detalle. Estoy
+emocionado por contribuir con mis habilidades creativas y
+técnicas en proyectos desafiantes, aportando ideas frescas y
+colaborando en equipos dinámicos</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jssolar&label=Profile%20views&color=0e75b6&style=flat" alt="jssolar" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jssolar" alt="jssolar" /></a> </p>
 
-- <p align="center">📫 How to reach me **jlsolarsolar@gmail.com**</p>
+- <p align="center">📫 How to reach me jlsolarsolar@gmail.com</p>
 
 <br/>
 <br/>
