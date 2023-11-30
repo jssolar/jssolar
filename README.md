@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Juan Solar</h1>
-<h3 align="center" color="red">Jr developer from Chile</h3>
+<h1 align="center">Hola 👋, Soy Juan Solar</h1>
+<h3 align="center" color="red">Jr Developer </h3>
 <p>Desarrollador Full-Stack Jr. con habilidades en desarrollo web,
 proactivo, perseverante y con atención al detalle. Estoy
 emocionado por contribuir con mis habilidades creativas y
@@ -10,7 +10,7 @@ colaborando en equipos dinámicos</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jssolar" alt="jssolar" /></a> </p>
 
-- <p align="center">📫 How to reach me jlsolarsolar@gmail.com</p>
+- <p align="center">📫 jlsolarsolar@gmail.com</p>
 
 <br/>
 <br/>
@@ -23,5 +23,5 @@ colaborando en equipos dinámicos</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jssolar&show_icons=true&locale=en" alt="jssolar" /></p>
 
-<p><img background="black" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jssolar&" alt="jssolar" />cambiar color</p>
+<p><img background="black" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jssolar&" alt="jssolar" /></p>
 
