@@ -23,5 +23,5 @@ colaborando en equipos dinámicos</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jssolar&show_icons=true&locale=en" alt="jssolar" /></p>
 
-<p><img background-color="black" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jssolar&" alt="jssolar" /></p>
+<p><img  style="color:red;" background-color="black" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jssolar&" alt="jssolar" /></p>
 
